@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Machine Learning Image Recognition</string>
+  <string name="fetching_image">Fetching image…</string>
+  <string name="fetching_image_failed">Failed image fetch.</string>
+  <string name="processing_image">Processing image…</string>
+  <string name="image_information">name: %s, confidence: %s, index:%s \n</string>
+  <string name="failed_with_error">"Failed with error: %s"</string>
+</resources>
